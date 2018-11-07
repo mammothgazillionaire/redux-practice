@@ -4,7 +4,7 @@ class Photogrid extends Component {
   render() {
     return (
       <div >
-        I am photogrid
+        I am photogrid 
       </div>
     );
   }
